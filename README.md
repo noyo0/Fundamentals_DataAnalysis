@@ -35,6 +35,5 @@ Lobbest thou thy Holy Hand Grenade of
 Antioch towards thy foe, who, being
 Naughty in My sight, shall snuff it"
 
-Amen
-
+# Amen
 # Amen
